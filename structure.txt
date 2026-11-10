@@ -1,0 +1,24 @@
+Features
+Add books to your reading list
+View all saved books
+Search books by title or author
+Update reading progress by page
+Mark books as completed
+Filter books by reading status
+Delete books
+View reading statistics
+
+Project Structure
+Personal_Reading_Tracker/
+│
+├── main.py
+├── reading_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── books.json
